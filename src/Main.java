@@ -1,9 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        //«Преступление и наказание», Фёдор Михайлович Достоевский, 1866 год.
-        //«Великий Гэтсби», Фрэнсис Скотт Фицджеральд, 1925 год.
-        //«451° по Фаренгейту», Рэй Брэдбери, 1953 год.
         Authors firstAuthor = new Authors("Фёдор", "Достоевский");
         Authors secondAuthor = new Authors("Фрэнсис", "Фицджеральд");
         Authors thirdAuthor = new Authors("Рэй", "Брэдбери");
